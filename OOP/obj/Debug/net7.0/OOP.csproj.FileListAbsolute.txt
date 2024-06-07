@@ -1,0 +1,14 @@
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+D:\C SHARP\KTRA\OOP\OOP\bin\Debug\net7.0\OOP.exe
+D:\C SHARP\KTRA\OOP\OOP\bin\Debug\net7.0\OOP.deps.json
+D:\C SHARP\KTRA\OOP\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+D:\C SHARP\KTRA\OOP\OOP\bin\Debug\net7.0\OOP.dll
+D:\C SHARP\KTRA\OOP\OOP\bin\Debug\net7.0\OOP.pdb
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\OOP.dll
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\refint\OOP.dll
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\OOP.pdb
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+D:\C SHARP\KTRA\OOP\OOP\obj\Debug\net7.0\ref\OOP.dll
